@@ -1,5 +1,11 @@
 # DIO_SQL
 
+O projeto consiste em:
+* Script para criar o schema e suas tabelas
+* Script de consultas
+* Código python para popular dados no BD
+* Modelo EER do projeto
+
 🛒 Projeto Banco de Dados - E-commerce
 📌 Descrição
 
